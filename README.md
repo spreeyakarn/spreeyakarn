@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=spreeyakarn&layout=compact&theme=tokyonight&hide_border=true%22 height="165" />
   
   <br/><br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thammarat-ai&theme=react-dark&hide_border=true%22 width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=spreeyakarn&theme=react-dark&hide_border=true%22 width="100%" />
 </div>
 
 ---
